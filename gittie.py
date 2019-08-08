@@ -1,5 +1,5 @@
 def introduce():
-    print("Hello I'm Gittie, what a wonderful day to frick up your day")
+    print("Yo, Im gittie. Have a good day!")
 
 def introduceabb():
     print("Hello, I'm Gittie!")
@@ -9,3 +9,9 @@ def joke():
 
 def add(a, b):
     return a + b
+
+def shout(text):
+    a = text.upper
+    print(a)
+
+shout("Hell with it")
